@@ -1,6 +1,6 @@
 # AndroidStudio-Chinese-Pack
 Android Studio汉化包（需手动安装）
-## 注意:本项目只支持Mac arm版本
+## 注意:本项目只测试Mac arm版本，Intel版本自行尝试
 
 1、首先前往【关于AndroidStudio】查看具体版本号
 <img width="1048" height="616" alt="image" src="https://github.com/user-attachments/assets/ce12f10d-19e6-4ffa-97ab-edaf3ded20cd" />
