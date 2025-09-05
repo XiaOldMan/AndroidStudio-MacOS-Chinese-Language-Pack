@@ -15,3 +15,7 @@
 
 <img width="1964" height="1444" alt="image" src="https://github.com/user-attachments/assets/29b901e9-e392-4be5-95a3-26a9b29f1f12" />
 
+4、版本对应表
+|   Android Studio版本号    |     汉化包版本号   |
+| ------------------------ | --------------- |
+|       2025.1.3           | 251.26094.121   |
