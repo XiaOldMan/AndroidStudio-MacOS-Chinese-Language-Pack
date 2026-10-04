@@ -1,5 +1,6 @@
 # Android Studio汉化包（需手动安装）
-## 注意:本项目只测试Mac arm版本，Intel版本自行尝试。如有需要，尽情提交问题，我来完善。（Windows版本能用不，能用反馈一下，谢谢）
+## （Windows版本经过反馈，可以正常食用，感谢）
+## 注意:本项目只测试Mac arm版本，Intel版本自行尝试。如有需要，尽情提交问题，我来完善。
 ## 1、如果安装提示报错。可更改压缩包名为“localization-zh”，然后进行尝试。
 1、首先前往【关于AndroidStudio】查看具体版本号
 <img width="1048" height="616" alt="image" src="https://github.com/user-attachments/assets/ce12f10d-19e6-4ffa-97ab-edaf3ded20cd" />
